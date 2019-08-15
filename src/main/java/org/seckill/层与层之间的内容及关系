@@ -1,0 +1,9 @@
+dao层:data access object,数据访问层，主要存放数据库操作（增删改查）相关代码
+dto层:数据传输层，关注web和service之间的数据传递;
+entity层:实体包,和数据表相关联，业务的封装,例如:秒杀，秒杀成功;
+exception层:用来存放service接口所需要的一些异常，例如:重复秒杀,秒杀已关闭;
+service层:服务器层，也叫业务逻辑层，调用dao中的方法，action又调用,它用来存放service接口和实现类;
+action层:是业务层的一部分,负责从前台取数据和跳转;
+web:客户端网页，是表层的东西，可接收和返回数据给用户;
+Impl(implements):实现某个接口,实现类;接口实现;
+enums:枚举包
