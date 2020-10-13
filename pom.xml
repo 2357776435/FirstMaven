@@ -12,7 +12,7 @@
         <!--  junit3默认使用编程的方式,而junit4是用注解来执行,用于单元测试的依赖 -->
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         <!--  补全项目依赖 -->
