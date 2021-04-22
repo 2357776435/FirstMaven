@@ -59,7 +59,7 @@
             <!-- DAO框架:MyBatis依赖,数据库的持久化层 -->
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
-            <version>3.5.1</version>
+            <version>3.5.6</version>
         </dependency>
         <dependency>
             <!-- mybatis自身实现的spring整合依赖:Mybatis-spring -->
