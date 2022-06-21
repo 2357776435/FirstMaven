@@ -45,7 +45,7 @@
             <!--mysql-connector-java数据库的链接驱动-->
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.48</version>
+            <version>8.0.28</version>
             <!-- Maven的工作范围:把生命周期变为工作时(runtime) -->
             <scope>runtime</scope>
         </dependency>
