@@ -110,7 +110,7 @@
             <!-- spring-beans数据库的事务管理器 -->
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>5.1.7.RELEASE</version>
+            <version>5.2.20.RELEASE</version>
         </dependency>
         <dependency>
             <!-- spring-context数据库的事务管理器 -->
